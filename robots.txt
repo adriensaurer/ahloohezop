@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ihupuadae.nlpztc.com/sitemap.xml
